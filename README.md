@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://raw.githubusercontent.com/wenbo624/Wordle/master/wordle_wenbo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -39,7 +39,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learned how to save the input text and show it in the other textview 
+Learned Toast
 
 ## License
 
